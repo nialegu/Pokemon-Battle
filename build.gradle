@@ -8,3 +8,7 @@ repositories {
 
 dependencies {
 }
+
+pmd {
+    toolVersion = "6.39.0"
+}
