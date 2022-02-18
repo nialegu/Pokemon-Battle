@@ -5,7 +5,7 @@ plugins {
 apply plugin: 'pmd'
 
 repositories {
-    mavenCentral()
+    jcenter()
 }
 
 dependencies {
