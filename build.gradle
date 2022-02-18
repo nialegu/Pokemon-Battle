@@ -1,7 +1,8 @@
 plugins {
     id 'java'
-    id 'pmd'
 }
+
+apply plugin: 'pmd'
 
 repositories {
     jcenter()
